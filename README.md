@@ -29,5 +29,6 @@ I work on Web platforms, healthcare systems, IoT, and infrastructure.
 
 ---
 
-B.Tech — Pondicherry Engineering College
+**Education**
+ - B.Tech — Pondicherry Engineering College
 
