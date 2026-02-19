@@ -7,25 +7,25 @@ I work on Web platforms, healthcare systems, IoT, and infrastructure.
 
 **Background**
 
-Director of Engineering & Co-Founder @ Cloudtree
-Architect @ Wellth
-Engineering Manager @ Tata Communications / VSNL
+ - Director of Engineering & Co-Founder @ Cloudtree
+ - Architect @ Wellth
+ - Engineering Manager @ Tata Communications / VSNL
 
 ---
 
 **Interests**
 
-Backend & Full-stack systems
-Reliability, Performance, Maintainability
-DevOps and Applied AI
+ - Backend & Full-stack systems
+ - Reliability, Performance, Maintainability
+ - DevOps and Applied AI
 
 ---
 
 **Open to**
 
-Thoughtful collaboration
-Meaningful contributions
-Remote-friendly, global work
+ - Thoughtful collaboration
+ - Meaningful contributions
+ - Remote-friendly, global work
 
 ---
 
